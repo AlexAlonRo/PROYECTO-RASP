@@ -27,7 +27,7 @@ El proyecto consiste en la creación de un sistema de seguridad y monitoreo para
 | 9  | Pantalla Inteligente LVGL | Una pantalla gráfica que se puede utilizar para mostrar información visual en tiempo real, como datos de sensores, alertas y más.| ![11](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/59f063c1-92a7-43de-a9fe-600192e6b7a9)| $800 | 1        |
 | 10 | Raspberry Pi 4          | Una computadora de placa única con capacidad de procesamiento avanzada que actúa como el cerebro del sistema, gestionando la recopilación de datos y la comunicación con otros dispositivos.| ![12](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/40bf83f4-a600-4e3c-bdfe-5b4e06589391)| $3,400 | 1        |
 
-##Historias de Usuario
+## Historias de Usuario
 | Número de Historia | Descripción de la Historia                                        | Prioridad | Estimación (días) | Cómo Probarlo               | Responsable        |
 |-------------------|-----------------------------------------------------------------|-----------|--------------------|-----------------------------|---------------------|
 | HU-01             | Como usuario, quiero que el sensor de fotoresistencia detecte cambios de luz para encender automáticamente el LED. | Debe      | 1                  | Verificar si el LED se enciende cuando oscurece. | Alexander Alonso   |
