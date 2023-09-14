@@ -14,9 +14,9 @@ El proyecto consiste en la creación de un sistema de seguridad y monitoreo para
 - Jonathan Raciel Medina Rivera
 - Samuel Palomino Cruz
 ## Hardware
-| ID | Componente             | Imagen                | Costo   | Descripcion  | Cantidad |
-|----|------------------------|-----------------------|---------|--------------|-----------
-| 1  | Sensor de Fotoresistencia |Este sensor detecta la cantidad de luz ambiental y se utiliza comúnmente para activar o desactivar dispositivos en función de la iluminación en su entorno, como luces automáticas al anochecer.| |![3](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/87c5d7f8-2548-44eb-96b4-5f13165b1482)| $50 | 1        |
+| ID | Componente             | Descripion            | Imagen   | Costo | Cantidad |
+|----|------------------------|-----------------------|----------|-------|-----------
+| 1  |Sensor de Fotoresistencia|Este sensor detecta la cantidad de luz ambiental y se utiliza comúnmente para activar o desactivar dispositivos en función de la iluminación en su entorno, como luces automáticas al anochecer.|![3](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/87c5d7f8-2548-44eb-96b4-5f13165b1482)| $50 | 1        |
 | 2  | Sensor de Gas           | |Detecta la presencia de gases en el aire y se utiliza para alertar sobre posibles fugas peligrosas, como fugas de gas natural o monóxido de carbono.| ![4](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/c5c76b99-8083-45b9-b3e6-c879ca8b8263) |$70 | 1        |
 | 3  | ESP32                   | |Un microcontrolador WiFi y Bluetooth de bajo costo que proporciona conectividad inalámbrica y capacidad de procesamiento para el sistema. Puede usarse para la comunicación y el control remoto.| ![5](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/4dd19843-7f07-4007-9c4a-b843c400a87e)| $200 | 1        |
 | 4  | HC-SR505                | |Este sensor de movimiento infrarrojo pasivo detecta el movimiento de objetos en su campo de visión y se utiliza comúnmente en sistemas de seguridad y automatización del hogar.| ![6](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/271f7242-f660-49a7-8cc7-cf08072b64f6)| $57 | 1        |
