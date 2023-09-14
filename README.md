@@ -27,6 +27,16 @@ El proyecto consiste en la creación de un sistema de seguridad y monitoreo para
 | 9  | Pantalla Inteligente LVGL | Una pantalla gráfica que se puede utilizar para mostrar información visual en tiempo real, como datos de sensores, alertas y más.| ![11](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/59f063c1-92a7-43de-a9fe-600192e6b7a9)| $800 | 1        |
 | 10 | Raspberry Pi 4          | Una computadora de placa única con capacidad de procesamiento avanzada que actúa como el cerebro del sistema, gestionando la recopilación de datos y la comunicación con otros dispositivos.| ![12](https://github.com/AlexAlonRo/PROYECTO-RASP/assets/97119823/40bf83f4-a600-4e3c-bdfe-5b4e06589391)| $3,400 | 1        |
 
+## Software
+| ID | Nombre del Software | Versión    | Descripción                                      |
+|----|---------------------|------------|--------------------------------------------------|
+| 1  | Node-Red            | 3.0.2      | Plataforma de programación visual basada en JavaScript para desarrollar aplicaciones IoT. |
+| 2  | MicroPython         | 3.11.3     | Un intérprete de Python eficiente diseñado para microcontroladores y sistemas embebidos. |
+| 3  | MariaDB             | 9.0.2      | Un sistema de gestión de bases de datos relacional de código abierto, derivado de MySQL. |
+| 4  | Raspberry Pi OS     | 11         | Sistema operativo basado en Linux diseñado para la Raspberry Pi, utilizado como plataforma de desarrollo. |
+| 5  | MQTT                | 5.0        | Protocolo de mensajería ligero utilizado para la comunicación entre dispositivos IoT. |
+| 6  | Arduino             | 2.1.1      | Plataforma de desarrollo de código abierto para microcontroladores que utiliza lenguaje C/C++. |
+
 ## Historias de Usuario
 | Número de Historia | Descripción de la Historia                                        | Prioridad | Estimación (días) | Cómo Probarlo               | Responsable        |
 |-------------------|-----------------------------------------------------------------|-----------|--------------------|-----------------------------|---------------------|
