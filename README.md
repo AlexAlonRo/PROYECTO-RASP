@@ -52,3 +52,9 @@ El proyecto consiste en la creación de un sistema de seguridad y monitoreo para
 | HU-10             | Como usuario, quiero que el buzzer emita un sonido de advertencia cuando se detecten problemas. | Quizás    | 1                  | Comprobar que el buzzer suena durante una alarma. | Samuel Palomino    |
 | HU-11             | Como usuario, quiero que el sensor de movimiento adicional se integre al sistema de seguridad. | Quizás    | 1                  | Verificar que el sensor adicional activa la alarma. | Samuel Palomino|
 | HU-12             | Como usuario, quiero que el sensor de temperatura controle automáticamente la calefacción en función de la temperatura. | Quizás    | 3                  | Verificar que la calefacción se enciende y apaga según la temperatura. | Samuel Palomino    |
+
+## Conexiones
+
+## Prototipo Fisico
+
+
