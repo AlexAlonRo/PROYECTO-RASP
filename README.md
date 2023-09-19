@@ -6,11 +6,12 @@
 El proyecto consiste en la creación de un sistema de seguridad y monitoreo para la entrada de una casa, utilizando una variedad de componentes electrónicos. La caja colocada frente a la puerta estará equipada con un sensor de movimiento (HC-SR505) que detectará cualquier movimiento cercano y activará un buzzer para alertar a los residentes. Además, se empleará un sensor de gas para detectar posibles fugas peligrosas y un sensor de temperatura para monitorear las condiciones ambientales. Para un control más avanzado, se integrará un módulo ESP32 que permitirá la conectividad Wi-Fi y envío de alertas a dispositivos móviles. La Raspberry Pi 4 actuará como el cerebro del sistema, gestionando la recopilación de datos y la interfaz de usuario a través de una pantalla inteligente LVGL y un display LCD 128x64. Además, se incorporará un sensor de pulso cardíaco para verificar el estado de salud de los residentes en caso de emergencia. En resumen, el objetivo de este proyecto es crear un sistema de seguridad integral que detecte movimiento, anomalías en la temperatura y la presencia de gas, y proporcione alertas a través de una interfaz amigable, brindando a los residentes una mayor tranquilidad y control sobre su entorno.
 
 ## Benficiario
-- El beneficiario principal de este proyecto sería la comunidad de personas invidentes. 
+- 
+El principal beneficiario de este proyecto es el propietario o residente de la casa donde se implementará el sistema de seguridad y monitoreo. Este proyecto tiene como objetivo proporcionar seguridad adicional y tranquilidad a los residentes al detectar cualquier actividad inusual o peligrosa en la entrada de la casa y enviar alertas o notificaciones para que puedan tomar las medidas adecuadas.
+
 ## Integrantes del Proyecto
 - Alexander Alonso Rodriguez
 - Andres Arredondo Escalante
-- Victor Manuel Arredondo Morales
 - Jonathan Raciel Medina Rivera
 - Samuel Palomino Cruz
 ## Hardware
